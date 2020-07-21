@@ -1,2 +1,1 @@
-# GUI-
-GUI
+Simple GUI in Java
